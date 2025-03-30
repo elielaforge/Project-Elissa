@@ -1,11 +1,8 @@
-# Project-Elissa
-Developed a Menstrual Product Comparison platform using NLP on 7,000+ scraped Amazon comments, enabling dynamic tagging to deliver data-driven insights on performance and user satisfaction.
+# ELISSA: Empowering Informed Choices for Menstrual Products 🌸
 
 
 ![image](https://github.com/user-attachments/assets/f6ba7f1c-88aa-4a1a-bfdb-575a09666f46)
 
-
-# ELISSA: Empowering Informed Choices for Menstrual Products 🌸
 
 **ELISSA** is a data-driven platform that applies unsupervised learning and NLP to help users make better, more personalized choices about menstrual products. Built around the core pillars of **transparency**, **well-being**, and **sustainability**, ELISSA bridges the gap between consumer needs and product information.
 
