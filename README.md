@@ -5,16 +5,6 @@ Developed a Menstrual Product Comparison platform using NLP on 7,000+ scraped Am
 ![image](https://github.com/user-attachments/assets/f6ba7f1c-88aa-4a1a-bfdb-575a09666f46)
 
 
-### **Mission Statement:** 
-Empower individuals with informed choices regarding menstrual products.
-
-### **1. Why?** 
-**Lack of comprehensive information**  => shared knowledge through reviews and articles
-**Personalized platform for users** => filters created based on reviews
-**Enhance user well-being** => selection of menstrual products, attention to preferences, health needs, and budget
-**Community of individuals (blog)** => confident and conscious choices for menstrual health
-
-### **2. Why?** 
 # ELISSA: Empowering Informed Choices for Menstrual Products 🌸
 
 **ELISSA** is a data-driven platform that applies unsupervised learning and NLP to help users make better, more personalized choices about menstrual products. Built around the core pillars of **transparency**, **well-being**, and **sustainability**, ELISSA bridges the gap between consumer needs and product information.
