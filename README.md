@@ -9,8 +9,6 @@ Developed a Menstrual Product Comparison platform using NLP on 7,000+ scraped Am
 
 **ELISSA** is a data-driven platform that applies unsupervised learning and NLP to help users make better, more personalized choices about menstrual products. Built around the core pillars of **transparency**, **well-being**, and **sustainability**, ELISSA bridges the gap between consumer needs and product information.
 
-🔗 **Live MVP**: [elissa-bay.vercel.app](https://elissa-bay.vercel.app/)
-
 ---
 
 ## 🌍 Context & Problem
